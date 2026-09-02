@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Ahmed Salah
+# アハマド　サラーハ
 
 Senior Frontend Developer, specializing in real-time data visualization and high-performance interfaces, ai-integration, (React, Next.js, TypeScript, GraphQL, etc..).
 
