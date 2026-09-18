@@ -4,7 +4,7 @@
 
 Senior Frontend Developer, specializing in real-time data visualization and high-performance interfaces, ai-integration, (React, Next.js, TypeScript, GraphQL, etc..).
 
-Most of my professional work over the past years was built for employers and government or enterprise clients under private repositories, so it is not reflected in the projects here.
+Most of my professional work over the past years was built for employers and government or enterprise clients under private repositories through this account (https://github.com/ahmed-sala7), so it is not reflected in the projects here.
 
 The repositories in this account are personal projects I am building to go deeper on tech generally or specific areas.
 
